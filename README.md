@@ -33,8 +33,7 @@
 ## 🎯 Sobre Mí
 
 <div align="center">
-  
-  ![Desarrolladora Web](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+   ![Developer](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 </div>
 
