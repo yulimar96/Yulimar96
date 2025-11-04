@@ -18,7 +18,6 @@
 
 Soy una apasionada desarrolladora web con experiencia en **PHP** y **Python**, especializada en crear aplicaciones web robustas y escalables. Me encanta resolver problemas complejos y crear experiencias digitales que marquen la diferencia.
 
-```php
 <?php
 class Yulimar extends Developer {
     public $languages = ['PHP', 'Python', 'JavaScript'];
