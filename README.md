@@ -86,8 +86,12 @@ Tecnologías: PHP, JavaScript, MySQL
 📊 Estadísticas de GitHub
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=yulimar96&show_icons=true&theme=
+https://github-readme-stats.vercel.app/api?username=yulimar96&show_icons=true&theme=radical
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=yulimar96&layout=compact&theme=radical
+</div>
+
+📈 Mi Journey como Desarrolladora
 graph TD
     A[💡 Inicio en Programación] --> B[🐍 Aprendizaje de Python]
     B --> C[🐘 Especialización en PHP]
@@ -95,5 +99,30 @@ graph TD
     D --> E[🚀 Proyectos Reales]
     E --> F[🎯 Mejora Continua]
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=yulimar96&layout=compact&theme=radical
+    🎯 Lo Que Puedo Ofrecerte
+
+    Desarrollo Web Personalizado - Soluciones a medida para tu negocio
+
+    APIs Robustas - Backends escalables y seguros
+
+    Optimización - Mejora de rendimiento y velocidad
+
+    Mantenimiento - Soporte continuo y actualizaciones
+
+📫 ¡Hablemos!
+<div align="center">
+
+¿Tienes un proyecto en mente? ¡Me encantaría escucharlo!
+
+https://img.shields.io/badge/%F0%9F%93%A7-yulimar96@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BC-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%AC-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+</div><div align="center">
+⚡ Fun Fact
+
+Cuando no estoy programando, probablemente esté aprendiendo nuevas tecnologías o disfrutando de una buena taza de café ☕
+
+¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar en proyectos interesantes.
+
+https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif
 </div>
