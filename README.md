@@ -33,8 +33,7 @@
 ## 🎯 Sobre Mí
 
 <div align="center">
-   ![Developer](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
+  ![Developer](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 </div>
 
 Soy una **desarrolladora web apasionada** con especialización en **PHP y Python**, combinando creatividad y tecnología para crear soluciones web innovadoras. Mi misión es transformar visiones en realidades digitales que impacten positivamente.
