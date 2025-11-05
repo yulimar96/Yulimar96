@@ -82,7 +82,7 @@ Tecnologías: Laravel PHP MySQL JavaScript Bootstrap
 
 [🔗 Ver Proyecto] | [📁 Código Fuente]
 🏥 Sistema de Gestión Clínica
-<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/img/system_clinica/3.png" alt="Sistema de Gestión Clínica" width="600"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/medical.png" alt="Sistema de Gestión Clínica" width="600"> </div>
 
 Tecnologías: Laravel Vue.js PHP MySQL Tailwind
 
@@ -98,7 +98,7 @@ Tecnologías: Laravel Vue.js PHP MySQL Tailwind
 
 [🔗 Ver Proyecto] | [📁 Código Fuente]
 🏠 Bienes y Raíces - Sitio Web
-<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/img/bienesyraices/1.png" alt="Bienes y Raíces" width="600"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/img/bienesyraices.png" alt="Bienes y Raíces" width="600"> </div>
 
 Tecnologías: HTML5 CSS3 JavaScript Responsive Design
 
