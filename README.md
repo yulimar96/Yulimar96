@@ -66,7 +66,7 @@ class Yulimar extends Developer {
 <div align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> </div>
 🚀 Proyectos Destacados
 🏪 Sistema de Gestión de Almacén
-<div align="center"> <img src="https://via.placeholder.com/600x300/4F46E5/FFFFFF?text=Sistema+Almacén" alt="Sistema Almacén" width="600"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/img/system_almacen/2.png" alt="Sistema de Almacén" width="600"> </div>
 
 Tecnologías: Laravel PHP MySQL JavaScript Bootstrap
 
@@ -82,7 +82,7 @@ Tecnologías: Laravel PHP MySQL JavaScript Bootstrap
 
 [🔗 Ver Proyecto] | [📁 Código Fuente]
 🏥 Sistema de Gestión Clínica
-<div align="center"> <img src="https://via.placeholder.com/600x300/10B981/FFFFFF?text=Sistema+Clínica" alt="Sistema Clínica" width="600"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/img/system_clinica/3.png" alt="Sistema de Gestión Clínica" width="600"> </div>
 
 Tecnologías: Laravel Vue.js PHP MySQL Tailwind
 
@@ -98,7 +98,7 @@ Tecnologías: Laravel Vue.js PHP MySQL Tailwind
 
 [🔗 Ver Proyecto] | [📁 Código Fuente]
 🏠 Bienes y Raíces - Sitio Web
-<div align="center"> <img src="https://via.placeholder.com/600x300/F59E0B/FFFFFF?text=Bienes+Raíces" alt="Bienes Raíces" width="600"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/img/bienesyraices/1.png" alt="Bienes y Raíces" width="600"> </div>
 
 Tecnologías: HTML5 CSS3 JavaScript Responsive Design
 
@@ -114,7 +114,7 @@ Tecnologías: HTML5 CSS3 JavaScript Responsive Design
 
 🔗 Ver Proyecto | [📁 Código Fuente]
 🏃‍♀️ Lean Pages - Sitio Deportivo
-<div align="center"> <img src="https://via.placeholder.com/600x300/EF4444/FFFFFF?text=Lean+Pages" alt="Lean Pages" width="600"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/yulimar96/portfolio/main/img/lean_page_deporte/screenshot.png" alt="Lean Pages Deporte" width="600"> </div>
 
 Tecnologías: WordPress PHP CSS JavaScript
 
@@ -129,6 +129,7 @@ Tecnologías: WordPress PHP CSS JavaScript
     🔧 Desarrollo con WordPress
 
 🔗 Ver Proyecto | 📁 Código Fuente
+
 
 📊 Mi Journey en Código
 <div align="center">
